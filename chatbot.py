@@ -19,6 +19,7 @@ nltk.download('wordnet') # first-time use only
 
 # Reading in the corpus
 with open('chatbot.txt', 'r', encoding='utf8', errors='ignore') as fin:
+    # raw = fin.read().lower()
     raw = fin.read().lower()
 
 #Tokenization
