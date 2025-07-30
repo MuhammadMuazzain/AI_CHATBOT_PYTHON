@@ -2,9 +2,6 @@
 An Interactive Conversational AI You Can Run Locally 💬
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)  
-![GitHub stars](https://img.shields.io/github/stars/MuhammadMuazzain/chatbot-project.svg)  
-![Last Commit](https://img.shields.io/github/last-commit/MuhammadMuazzain/chatbot-project.svg)  
-![Repo Size](https://img.shields.io/github/repo-size/MuhammadMuazzain/chatbot-project.svg)  
 
 The **Chatbot Project** is a friendly, terminal-based conversational assistant built in Python. Whether you're curious about AI, learning to build chat interfaces, or just want a fun little bot to chat with, this project makes it easy and approachable.
 
